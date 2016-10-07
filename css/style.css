@@ -1,5 +1,5 @@
 div.main{
-    border: 40px solid #191940;
+    border: 40px solid #191931;
     height: 700px;
     width: auto;
     margin: 20px 200px;
@@ -9,7 +9,16 @@ div.main{
 .header{
     width: 767px;
 }
-h1{
+body{
     text-align: center;
     font-family: sans-serif
+}
+.Logo{
+    margin: 2px 37%;
+    height: 130px;  
+}
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500
 }
