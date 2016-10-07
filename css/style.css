@@ -1,0 +1,15 @@
+div.main{
+    border: 40px solid #191940;
+    height: 700px;
+    width: auto;
+    margin: 20px 200px;
+    box-shadow: 8px 8px slategray;
+    border-radius: 5%;
+}
+.header{
+    width: 767px;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif
+}
